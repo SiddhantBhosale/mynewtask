@@ -15,7 +15,6 @@
 
       global $base_url;
        //  $var1=\Drupal::currentUser()->isAnonymous();
-
        //  $var = \Drupal::routeMatch()->getRouteName();
        // kint($var);
        // kint($var1);
